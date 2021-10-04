@@ -9,3 +9,6 @@ A simple game developed in C++ where you "lasso" around the moving lasso head to
 * Magnets are thrown every third level after completing half of the level quest and catching one doubles the Lasso catch radius for the rest of the level, for the rest of the level, which makes catching coins a bit easier. This Magnet is thrown only once, and if not caught will not appear again in that level. <br>
 * All moving objects (Lasso head, Coins, Magnets and Bombs) follow "gravitational" acceleration and follow parabolic paths. <br>
 * The controls of the game are described as text within the game window, on the top right. <br>
+
+** Completely developed using WSL, Windows Subsystem for Linux using the xrdp GUI. <br>
+To run, simply download the "lasso" file, then run ```chmod 755 lasso``` with your terminal opened in the same directory as the file, and then ```./lasso``` to execute
