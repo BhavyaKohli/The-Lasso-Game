@@ -11,4 +11,4 @@ A simple game developed in C++ where you "lasso" around the moving lasso head to
 * The controls of the game are described as text within the game window, on the top right. <br>
 
 ** Completely developed using WSL, Windows Subsystem for Linux using the xrdp GUI. <br>
-To run, simply download the "lasso" file, then run ```chmod 755 lasso``` with your terminal opened in the same directory as the file, and then ```./lasso``` to execute
+To run, simply download the "lasso" file, then run ```chmod 755 lasso``` with your terminal opened in the same directory as the file (to avoid any "Permission Denied" errors), and then ```./lasso``` to execute
